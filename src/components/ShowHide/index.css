@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.showHide-bg {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.showHide-title {
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.button-style {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-width: 0px;
+  margin-left: 80px;
+  margin-right: 80px;
+  color: #dd1264;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+}
+
+.text-box {
+  background-color: #fddddb;
+  background-size: cover;
+  height: 120px;
+  width: 220px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-font {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.buttonsAndTextBoxes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonAndText-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
